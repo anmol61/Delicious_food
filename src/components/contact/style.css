@@ -1,0 +1,32 @@
+input[type='text']
+{
+    padding: 10px;
+    margin: 10px;
+    margin-left: 20px;
+    
+}
+input[type='number']
+{
+    padding: 10px;
+    margin: 10px;
+    margin-bottom: 20px;
+}
+input[ type="button"]
+{
+    cursor: pointer;
+    background-color: rgb(11, 239, 91);
+    padding: 4px;
+    margin: 5px;
+    font-size: 1.1rem;
+    font-weight: bold;
+    color: rgb(134, 143, 132);
+    border-radius: 2rem;
+
+
+
+}
+input[ type="button"]:hover
+{
+    background-color: #fff;
+    color: green;
+}
